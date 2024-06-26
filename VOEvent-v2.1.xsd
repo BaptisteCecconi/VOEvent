@@ -96,7 +96,7 @@ Revision 2.1 2020/05/05 BaptisteCecconi
   <xs:complexType name="What">
     <xs:annotation>
       <xs:documentation> What: Event Characterization. This is the part of the data model that is
-        chosen by the Authoer of the event rather than the IVOA. There can be Params, that may be in
+        chosen by the Author of the event rather than the IVOA. There can be Params, that may be in
         Groups, and Tables, and simpleTimeSeries. There can also be Description and Reference as
         with most VOEvent elements. </xs:documentation>
     </xs:annotation>
